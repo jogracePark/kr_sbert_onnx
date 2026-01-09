@@ -1,0 +1,8 @@
+---
+title: KrSbertOnnxInt8
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
